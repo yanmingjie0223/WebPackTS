@@ -1,4 +1,4 @@
-# WebPackTS
+# WebpackTS
 webpack typescript
 
 install.bat 下载全局命令依赖工具模块
@@ -24,3 +24,4 @@ index.ts 文件是启动开始检测主文件，webpack解决类之间依赖关�
 4、浏览器打开localhost:8888
 
 具体了解可查看对应文件配置和运行后结果
+注：目前是为layaair项目准备，如有需要可以稍作修改做在其他项目中使用
